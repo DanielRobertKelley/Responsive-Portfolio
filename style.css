@@ -25,42 +25,8 @@
     background-image: url("bg.jpg");
 }
 
-h1 {
-    background-image: url("bg.jpg");
-}
-
-@-webkit-keyframes footer {
-    from{background-color:blue;}
-    to{background-color:red;}
-}
 
 
-@-webkit-keyframes pp {
-    from{background-color:blue;}
-    to{background-color:red;}
-    from{color:black;}
-    to{color:white;}
-}
-
-@media screen and (max-width:980px) {
-    body {
-    background-color:purple;
-    }
-}
-@media screen and (max-width:760px){
-    body {
-        background-color:green;
-    }
-}
-@media screen and (max-width:640px) {
-    body {
-        background-color:blue;
-    }
-}
-@media only screen and (max-width:640px) {
-    header {position:static;}
-}
-}
 
 
 
